@@ -1,8 +1,20 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+1. What is your name? 
+Eric Litke
+
+2. Why are you interested in Data Science? 
+I'm an investigative journalist (for USA TODAY NETWORK-Wisconsin, I work for a team that serves a group of 10 daily papers throughout the state owned by Gannett/USA TODAY) specializing in data-based reporting, so most of what I do is built on obtaining, cleaning, analyzing and explaining data. This master's program enhances my technical skills, my analytic abilities and my communication skills relative to data. It's a great fit for me whether apply it for within journalism or take this skill set one day to another industry.
+
+3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how? 
+My programming is largely limited to HTML and CSS, as I do web design for several nonprofits on a volunteer basis and use it a bit in generating interactive visualizations that accompany my written reports. And I use SQL for data analysis. The only programming courses I've taken is a intro one I took in high school and then the web design class where I learned HTML/CSS in college.
+
+4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how? My statistics experience is more in the real-world usage than classroom training. My job is statistical analysis, but my methods are generally simplistic, and I only grow that skill set as needed for particular projects. Identifying outliers, trends, averages, modes, etc. is generally sufficient for my work, so my stats skills haven't moved much beyond that. That is also a key reason I'm in this program.
+
+5.  Do you have other experience with R or Python? 
+I haven't used Python, though I'm excited to learn it since it is heavily used by other data reporters nationally. I used R in the Foundations course, so I have some general familiarity with it.
+
+6.  What do you hope to learn in this class? 
+As noted in the last answer I'm especially excited for Python because I've seen some fantastic reporting and analysis done with it by reporters with jobs similar to mine. And given how fundamental R is in the data science field, I'm looking forward to expanding my understanding of that as well.
+
+7.  Is there anything else you would like to share with us? 
+I'll admit being a bit nervous heading into this one since I'm sure I have a weaker programming background than many other students, but I'm excited for the challenge and the opportunities these skills will bring for my current and future work. And I'm confident enough in my understanding of the logic and sequential nature of programming that I think I'll be able to catch up.
